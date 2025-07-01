@@ -1,0 +1,31 @@
+# Ignorar entornos virtuales
+venv/
+env/
+.python-deepLearning/
+python-deepLearning/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar configuraciones de VS Code
+.vscode/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de salida de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar datos o archivos pesados generados
+*.h5
+*.log
+*.csv
+*.db
+*.sqlite
+*.pkl
+
+# Otros
+.env

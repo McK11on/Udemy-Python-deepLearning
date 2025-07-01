@@ -1,0 +1,13 @@
+jupyterlab>=3.6
+notebook>=6.5
+nbconvert>=7.8
+nbformat>=5.9
+matplotlib>=3.5
+numpy>=1.22
+pandas>=1.4
+pillow>=9.0
+opencv-python>=4.6
+scikit-learn>=1.1
+keras>=2.10
+tensorflow>=2.10
+
