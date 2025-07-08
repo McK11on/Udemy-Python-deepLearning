@@ -3,6 +3,7 @@ venv/
 env/
 .python-deepLearning/
 python-deepLearning/
+DATA/
 
 # Ignorar archivos temporales de Python
 __pycache__/
